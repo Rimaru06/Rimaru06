@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiva Chahar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **NEXT JS**
-
 - 📫 How to reach me **shiva12ch88@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
