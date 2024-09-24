@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shiva-chahar&label=Profile%20views&color=0e75b6&style=flat" alt="shiva-chahar" />
+  <img src="https://komarev.com/ghpvc/?username=rimaru06&label=Profile%20views&color=0e75b6&style=flat" alt="shiva-chahar" />
 </p>
 
 <p align="center">
